@@ -1,5 +1,7 @@
 # Data Manipulation with dplyr in R 
 # data: 2015 United States Census  
+# install.packages("dplyr")
+
 
 select() 
 arrange() 
